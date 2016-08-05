@@ -1,0 +1,47 @@
+ext {
+    //Android
+    androidBuildToolsVersion = "24.0.0"
+    androidMinSdkVersion = 21
+    androidTargetSdkVersion = 24
+    androidCompileSdkVersion = 24
+
+    androidApplicationId = 'com.android.kirannote'
+    androidVersionCode = 1
+    androidVersionName = "1.0"
+
+
+    def libver = [
+            dagger              : '2.4',
+            javaxAnnotation     : '1.0',
+            rxJava              : '1.1.4',
+            rxAndroid           : '1.2.0',
+            androidSupport      : '24.1.1',
+
+            junit               : '4.12',
+            mockito             : '1.10.19'
+    ]
+
+
+    libs = [
+            daggerCompiler       : "com.google.dagger:dagger-compiler:${libver.dagger}",
+
+            dagger               : "com.google.dagger:dagger:${libver.dagger}",
+            javaxAnnotation      : "javax.annotation:jsr250-api:${libver.javaxAnnotation}",
+            rxJava               : "io.reactivex:rxjava:${libver.rxJava}",
+            rxAndroid            : "io.reactivex:rxandroid:${libver.rxAndroid}",
+            rxBindingAppcompact  : "com.jakewharton.rxbinding:rxbinding-appcompat-v7:${libver.rxBindingAppcompact}",
+
+            design               : "com.android.support:design:${libver.androidSupport}",
+            recyclerView         : "com.android.support:recyclerview-v7:${libver.androidSupport}",
+            palette              : "com.android.support:palette-v7:${libver.androidSupport}",
+            cardview             : "com.android.support:cardview-v7:${libver.androidSupport}",
+            percent              : "com.android.support:percent:${libver.androidSupport}",
+            supportv4            : "com.android.support:support-v4:${libver.androidSupport}",
+            appcompatv7          : "com.android.support:appcompat-v7:${libver.androidSupport}",
+            supportv13           : "com.android.support:support-v13:${libver.androidSupport}",
+            vectorSupport        : "com.android.support:support-vector-drawable:${libver.androidSupport}",
+
+            junit                : "junit:junit:${libver.junit}"
+    ]
+
+}

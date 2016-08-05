@@ -1,0 +1,18 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="item_layout_space">8dp</dimen>
+
+    <dimen name="toolbar">56dp</dimen>
+    <dimen name="toolbar_x2">112dp</dimen>
+    <dimen name="toolbar_x3">168dp</dimen>
+
+    <!-- elevation -->
+    <dimen name="elevation_huge">12dp</dimen>
+    <dimen name="elevation_normal">8dp</dimen>
+    <dimen name="elevation_small">4dp</dimen>
+    <dimen name="elevation_tiny">2dp</dimen>
+
+</resources>

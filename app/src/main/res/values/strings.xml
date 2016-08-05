@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NoteDroid</string>
+    <string name="no_result_found">No Note found. Create New Note.</string>
+    <string name="addnew">Add New Note</string>
+    <string name="editnote">Edit Note</string>
+    <string name="save">Save</string>
+    <string name="edit">Edit</string>
+</resources>

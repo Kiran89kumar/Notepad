@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/kiran.kumar/Android/Code/Personal/KiranNote/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="bbcd3f830f7fb150eff5e78da34688bbac9c9b75">
+        <dex dex="/home/kiran.kumar/Android/Code/Personal/KiranNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_756595f8464c292ee3497211f87c33bb644238c0/classes.dex" />
+    </item>
+    <item
+        jar="/home/kiran.kumar/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.4/6b290a792253035c9fcc912d6a4d7efb3e850211/dagger-2.4.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6b290a792253035c9fcc912d6a4d7efb3e850211">
+        <dex dex="/home/kiran.kumar/Android/Code/Personal/KiranNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/dagger-2.4_2ceac21f0ba03d6caffb2295c146cd5d44257804/classes.dex" />
+    </item>
+    <item
+        jar="/home/kiran.kumar/Android/Code/Personal/KiranNote/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/home/kiran.kumar/Android/Code/Personal/KiranNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_90b4c665c2db2400b3598266e2143ba59c9045fd/classes.dex" />
+    </item>
+    <item
+        jar="/home/kiran.kumar/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.4/3cc424c6eda381bf4aee40dc3ccdecc27b2106aa/rxjava-1.1.4.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3cc424c6eda381bf4aee40dc3ccdecc27b2106aa">
+        <dex dex="/home/kiran.kumar/Android/Code/Personal/KiranNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.4_3e03d1ff3c37f4268950ea5d4e21d6cbbfe10ae0/classes.dex" />
+    </item>
+    <item
+        jar="/home/kiran.kumar/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/kiran.kumar/Android/Code/Personal/KiranNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_c11f129de906840f2d78fb1ecf1e3e0ac9ac7d04/classes.dex" />
+    </item>
+    <item
+        jar="/home/kiran.kumar/Android/Code/Personal/KiranNote/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="/home/kiran.kumar/Android/Code/Personal/KiranNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.1.1_c7e5aa993e1f837fce554c3a151f341dde6fc0ef/classes.dex" />
+    </item>
+    <item
+        jar="/home/kiran.kumar/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.1.1/3af19f153122737b372622fa6c81dd11a1c6b999/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/home/kiran.kumar/Android/Code/Personal/KiranNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_7112ed03251493648a2a3630d691b3c2b0a99616/classes.dex" />
+    </item>
+    <item
+        jar="/home/kiran.kumar/Android/Code/Personal/KiranNote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/home/kiran.kumar/Android/Code/Personal/KiranNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_2094d45eb533ba34cb4ed6586a718f4edd9c3cbe/classes.dex" />
+    </item>
+    <item
+        jar="/home/kiran.kumar/Android/Code/Personal/KiranNote/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="/home/kiran.kumar/Android/Code/Personal/KiranNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.1.1_75d7ec6ec936d911b2a6162a3484807159fb3e94/classes.dex" />
+    </item>
+    <item
+        jar="/home/kiran.kumar/Android/Code/Personal/KiranNote/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="927e8ef5711b115b65b2f35495d77352be2b3c09">
+        <dex dex="/home/kiran.kumar/Android/Code/Personal/KiranNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex-rxandroid-1.2.0_c0e0e2f44bf59e6f2bcd8ba8e0ac6cbda453e1fb/classes.dex" />
+    </item>
+    <item
+        jar="/home/kiran.kumar/Android/Code/Personal/KiranNote/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="854511d5c529c55b6b487b0312c6e31740816cac">
+        <dex dex="/home/kiran.kumar/Android/Code/Personal/KiranNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9dcc446319257fc6a92e60c4027c8272418f8944/classes.dex" />
+    </item>
+    <item
+        jar="/home/kiran.kumar/Android/Code/Personal/KiranNote/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="/home/kiran.kumar/Android/Code/Personal/KiranNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.1.1_d47be0f443e97808a46f2b38c41664aad38cf124/classes.dex" />
+    </item>
+    <item
+        jar="/home/kiran.kumar/Android/Code/Personal/KiranNote/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/home/kiran.kumar/Android/Code/Personal/KiranNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_bbdd6a8aa03d05b92cf593db6f51493b43322650/classes.dex" />
+    </item>
+    <item
+        jar="/home/kiran.kumar/Android/Code/Personal/KiranNote/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/home/kiran.kumar/Android/Code/Personal/KiranNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_b5765806349e39a83b9f59328e5395832af004af/classes.dex" />
+    </item>
+    <item
+        jar="/home/kiran.kumar/Android/Code/Personal/KiranNote/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/home/kiran.kumar/Android/Code/Personal/KiranNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_7305407ec02a1f287479e3adf7e4e16e4958ef51/classes.dex" />
+    </item>
+
+</items>
