@@ -50,7 +50,7 @@ This project use this external libs
 
 ### Clone the git repository
 
-Use Git to clone the Lithium repository to your local disk: 
+Use Git to clone the Notepad repository to your local disk: 
 
 ```
 $ git clone https://github.com/Kiran89kumar/Notepad.git
@@ -68,7 +68,7 @@ $ cd Notepad
 You should be able to import the project directly into Android Studio:
 
 * Start Android Studio
-* Choose File / Import Project and choose the settings.gradle file in the Lithium directory you cloned earlier.
+* Choose File / Import Project and choose the settings.gradle file in the Notepad directory you cloned earlier.
 * Hit Finish and wait for all tasks to finish (may take a while)
 
 ### Running project in Android Studio
@@ -78,7 +78,7 @@ If you've checked out this project directly, you might notice there is *nothing 
 If you want to run something (aside from the tests), you should get one of the sample apps listed below.
 
 
-## Building Lithium on command line via gradle
+## Building Notepad on command line via gradle
 
 * Clone the git repository
     * See details above
